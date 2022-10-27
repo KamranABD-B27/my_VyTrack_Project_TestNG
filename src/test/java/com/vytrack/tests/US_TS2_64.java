@@ -17,8 +17,6 @@ AC2: Drivers should NOT able to access the Vehicle contracts page, the app shoul
 2.	Click the Vehicle contracts under the Fleet
 3.	Verify users see an error message: “You do not have permission to perform this action.”
 
-
-
  */
 
 import com.vytrack.utilities.BrowserUtils;
