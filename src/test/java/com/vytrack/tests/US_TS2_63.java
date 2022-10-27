@@ -28,8 +28,6 @@ TC2: Verify users can create the pinbar successfully
 (manual testing - screenshot proof
 Automation testing - verify image source)
 
-
-
  */
 
 import com.vytrack.utilities.BrowserUtils;
